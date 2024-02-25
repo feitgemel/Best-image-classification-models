@@ -9,8 +9,6 @@
 
 <font size= "4" >
 
-MobileNetV3 large is tutorials similar to the original MobileNet, except that it was trained with 320X320 Imagenet dataset.
-
 In this tutorial, we will learn how to classify images using transfer learning and adjusting the MobileNetV3 architecture to our dataset 
 
 We will classify 9 types of fish.
