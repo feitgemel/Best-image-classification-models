@@ -26,7 +26,7 @@ Part 2: Run a prediction , and extract the result in two ways
 
 You can find the link for the [tutorial](https://youtu.be/Nhe7WrkXnpM) here. 
 
-You can find more cool Python projects and tutorials in this [playlist]https://www.youtube.com/playlist?list=PLdkryDe59y4bxVvpexwR6PMTHH6_vFXjA)
+You can find more cool Python projects and tutorials in this [playlist]https://www.youtube.com/playlist?list=PLdkryDe59y4aCcCN4ioFpdLVAGZ_dFeFr)
 
 Enjoy
 

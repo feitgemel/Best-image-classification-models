@@ -1,7 +1,7 @@
-# Classify Images : Transfer Learning MobileNet-V3 Large
+# How to Classify images using Efficientnet B0
 
 <p align="center">
-  <img width="800" src="MobileNet-V3 - classify images - transfer learning.png" "image">
+  <img width="800" src="EfficientNet-Classify-image.png" "image">
 </p>
 
 ##
@@ -9,23 +9,13 @@
 
 <font size= "4" >
 
-In this tutorial, we will learn how to classify images using transfer learning and adjusting the MobileNetV3 architecture to our dataset 
+In this tutorial we will learn how to use the EfficientNetV2 pre-trained model to classify images . 
 
-We will classify 9 types of fish.
-
-<br/>
-
-The tutorial is divided into 3 parts:
-
-Part 1: prepare your image dataset. 
-
-Part 2: Build the model based on  MobileNet-V3 and transfer learning (adjust the last layers to our needs), and train it 
-
-part 3 : Test the model on a new fresh image
+We will learn how to classify your own image based on the 1000 image-net classes .
 
 <br/>
 
-You can find the link for the [tutorial](https://youtu.be/9FMVlhOGDoo) here. 
+You can find the link for the [tutorial](https://youtu.be/lomMTiG9UZ4) here. 
 
 You can find more cool Python projects and tutorials in this [playlist]https://www.youtube.com/playlist?list=PLdkryDe59y4aCcCN4ioFpdLVAGZ_dFeFr)
 
