@@ -1,7 +1,7 @@
-# ResNet50 For Alien vs. Predator Images Classification Using Transfer Learning
+# Image Classification Using Densnet Model | Classify Olympic sports classes
 
 <p align="center">
-  <img width="800" src="Classify Predator vs. Alien Using ResNet50.png" "image">
+  <img width="800" src="DenseNet201.png" "image">
 </p>
 
 ##
@@ -9,21 +9,21 @@
 
 <font size= "4" >
 
-Welcome to our tutorial on transfer learning using ResNet50 with TensorFlow and Keras! 
-We will train classify and Predator and Alien images  
+Welcome to our tutorial on transfer learning using DenseNet201 with TensorFlow and Keras! 
+We will train classify and Olympic sports classes
 In this video, we'll guide you through the entire process of preparing your data, building the model, and testing its performance.
 
 <br/>
 🔍 Data Preparation: We'll start by preparing the train , test and validation images folders.
 
-🛠️ Model Building with TensorFlow Keras: Next, we'll dive into the implementation of ResNet50 architecture using TensorFlow's Keras API. You'll learn how to configure and fine-tune the pre-trained model for your specific task.
+🛠️ Model Building with TensorFlow Keras: Next, we'll dive into the implementation of DenseNet201 architecture using TensorFlow's Keras API. You'll learn how to configure and fine-tune the pre-trained model for your specific task.
 
 📊 Testing the Model: Once the model is trained, we'll show you how to test the model using a new and fresh image 
 
 
 <br/>
 
-You can find the link for the [tutorial](https://youtu.be/5SJAPmQy7xs) here. 
+You can find the link for the [tutorial](https://youtu.be/TJ3i5r1pq98) here. 
 
 You can find more cool similar projects and tutorials in this [playlist](https://www.youtube.com/playlist?list=PLdkryDe59y4aCcCN4ioFpdLVAGZ_dFeFr)
 
