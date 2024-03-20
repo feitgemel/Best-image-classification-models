@@ -1,7 +1,7 @@
-# Image Classification Using Densnet Model | Classify Olympic sports classes
+# Transfer Learning using VGG19 | VGG19 Image Classification code for Aircrafts
 
 <p align="center">
-  <img width="800" src="DenseNet201.png" "image">
+  <img width="800" src="Vgg19- Image classification.png" "image">
 </p>
 
 ##
@@ -9,21 +9,21 @@
 
 <font size= "4" >
 
-Welcome to our tutorial on transfer learning using DenseNet201 with TensorFlow and Keras! 
-We will train and classify Olympic sports images
+Welcome to our tutorial on transfer learning using VGG19 with TensorFlow and Keras! 
+We will train and classify Aircrafts images
 In this video, we'll guide you through the entire process of preparing your data, building the model, and testing its performance.
 
 <br/>
-🔍 Data Preparation: We'll start by preparing the train , test and validation images folders.
+🔍 Data Preparation: We'll start by downloading the images dataset.
 
-🛠️ Model Building with TensorFlow Keras: Next, we'll dive into the implementation of DenseNet201 architecture using TensorFlow's Keras API. You'll learn how to configure and fine-tune the pre-trained model for your specific task.
+🛠️ Model Building with TensorFlow Keras: Next, we'll dive into the implementation of VGG19 architecture using TensorFlow's Keras API. You'll learn how to configure and fine-tune the pre-trained model for your specific task.
 
 📊 Testing the Model: Once the model is trained, we'll show you how to test the model using a new and fresh image 
 
 
 <br/>
 
-You can find the link for the [tutorial](https://youtu.be/TJ3i5r1pq98) here. 
+You can find the link for the [tutorial](https://youtu.be/exaEeDfbFuI) here. 
 
 You can find more cool similar projects and tutorials in this [playlist](https://www.youtube.com/playlist?list=PLdkryDe59y4aCcCN4ioFpdLVAGZ_dFeFr)
 

@@ -1,0 +1,32 @@
+
+- Dataset :
+1. Download the dataset and extract the files -> from here :https://www.kaggle.com/datasets/alessiocorrado99/animals10
+
+- Create conda enviroment 
+1. conda create --name YoloV5 python=3.8
+2. conda activate YoloV5
+
+3. choose a folder to clone YoloV5 (for example Cool-Python)
+4. git clone https://github.com/ultralytics/yolov5.git
+
+5. Install Pytorch :
+nvcc --version
+
+# CUDA 11.8
+conda install pytorch==2.2.0 torchvision==0.17.0 torchaudio==2.2.0 pytorch-cuda=11.8 -c pytorch -c nvidia
+
+6. Install these Python requirements :
+pip install gitpython>=3.1.30
+pip install matplotlib>=3.3
+pip install numpy>=1.22.2
+pip install opencv-python>=4.1.1
+pip install Pillow>=10.0.1
+pip install psutil  # system resources
+pip install PyYAML>=5.3.1
+pip install requests>=2.23.0
+pip install scipy>=1.4.1
+pip install thop>=0.1.1  # FLOPs computation
+pip install tqdm>=4.64.0
+pip install ultralytics>=8.0.147
+pip install tensorboard
+pip install albumentations
