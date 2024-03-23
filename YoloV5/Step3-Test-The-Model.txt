@@ -1,0 +1,7 @@
+
+1. copy the images folder from my Github to the main Yolo-V5 folder
+
+2. Run this command :
+
+python classify/predict.py --weights runs/train-cls/exp5/weights/best.pt --img 224 --source images  --name exp_images
+

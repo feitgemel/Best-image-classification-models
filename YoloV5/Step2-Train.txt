@@ -1,0 +1,23 @@
+# dataset : https://www.kaggle.com/datasets/alessiocorrado99/animals10
+
+
+
+1. Restart the pc : so the memory will nbe clean 
+2. Open Anconda prompt with Admin !!!
+
+3. Goto YoloV5 folder :
+4. git pull origin master
+
+
+# Train with 50 epochs
+
+# Important -> the dataset should be on drive c !!! Performence 
+
+# Train YOLOv5s Classification on with 20 epochs :
+# 5s -> means the small one . There is also m , l and X (medium , large and Xtra-large) models !!
+
+python classify/train.py --model yolov5s-cls.pt --data C:/Temp/Data-sets/Animals-10/raw-img2 --epochs 500 --img 224 --cache --device 0 --workers 2
+
+6. The result of the train will be in the folder "runs" 
+in this folder :    ---->>>>>   runs\train-cls\exp5\weights\best.pt
+

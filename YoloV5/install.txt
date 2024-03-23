@@ -27,6 +27,10 @@ pip install requests>=2.23.0
 pip install scipy>=1.4.1
 pip install thop>=0.1.1  # FLOPs computation
 pip install tqdm>=4.64.0
-pip install ultralytics>=8.0.147
+pip install ultralytics==8.0.235
 pip install tensorboard
 pip install albumentations
+
+pip uninstall opencv-python-headless
+pip uninstall opencv-python
+pip install opencv-python>=4.1.1
