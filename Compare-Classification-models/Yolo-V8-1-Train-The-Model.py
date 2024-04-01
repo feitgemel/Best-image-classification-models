@@ -1,4 +1,9 @@
+# https://www.kaggle.com/datasets/jutrera/stanford-car-dataset-by-classes-folder
+
 from ultralytics import YOLO
+import time
+
+start_time = time.time()
 
 def main():
 
@@ -25,3 +30,9 @@ def main():
 
 if __name__ == "__main__" :
     main()
+    
+    end_time = time.time()
+    execution_time_seconds  = end_time - start_time
+    execution_time_minutes = execution_time_seconds / 60
+
+    print(f"The code took {execution_time_minutes:.6f} minutes to execute.")
