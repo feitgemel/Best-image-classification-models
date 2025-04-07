@@ -1,0 +1,26 @@
+
+
+
+
+
+1. Open Powershell(!!!!!!!) and run WSL
+WSL
+
+
+2. Create Conda enviroment :
+
+conda create -n lightly-train python=3.11
+conda activate lightly-train 
+
+
+# How it workds :
+https://docs.lightly.ai/train/stable/index.html
+
+
+
+# Install :
+pip install lightly-train  # This tutorial : 0.6.1
+pip install matplotlib==3.10.1
+
+# Run vscode 
+code .
