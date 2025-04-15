@@ -1,0 +1,18 @@
+
+1. Download the first dataset 
+
+# Dataset for Pre-training and feature extraction :
+# 9 Categories dataset : https://www.kaggle.com/datasets/muhammadhananasghar/9-dogs-breeds-identification-classification
+
+2. Download the second dataset :
+# Dataset link : https://www.kaggle.com/datasets/gpiosenka/70-dog-breedsimage-data-set
+
+3. Create a new folder with the first dataset and change it to 10 dogs breeds
+
+4. Copy the "Collie" images from the second dataset to the first dataset folder
+
+# Now we have two datasets :
+
+1. With 9 categories 
+2 . With 10 categories (9 categories + Collie)
+
