@@ -1,0 +1,18 @@
+conda create -n mediapipe311 python=3.11
+cobda activate mediapipe311
+
+pip install numpy==1.26.4
+pip install opencv-python==4.10.0.84
+pip install mediapipe==0.10.21
+
+# Download the models :
+# put it in your favotite folder . 
+
+Download models :
+
+Model list :
+https://ai.google.dev/edge/mediapipe/solutions/vision/image_classifier#models
+
+
+# Download the model :
+https://storage.googleapis.com/mediapipe-models/image_classifier/efficientnet_lite0/float32/1/efficientnet_lite0.tflite
