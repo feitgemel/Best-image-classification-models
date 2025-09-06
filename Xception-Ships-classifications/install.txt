@@ -1,0 +1,31 @@
+Link to the dataset : https://www.kaggle.com/datasets/arpitjain007/game-of-deep-learning-ship-datasets/data
+
+
+1. Run PowerShell as admin
+2. run wsl 
+
+3. conda create -n TensorflowTutorial python=3.11
+4. conda activate TensorflowTutorial
+
+5. Install Tensorflow :
+
+# For GPU users
+pip install tensorflow[and-cuda]==2.16.2
+# For CPU users
+pip install tensorflow==2.16.2
+
+5. Install requirements 
+
+pip install opencv-python
+pip install numpy 
+pip install pandas
+pip install seaborn
+pip install scikit-learn
+
+
+999. Run vscode :
+code .
+
+
+
+
