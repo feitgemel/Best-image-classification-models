@@ -1,0 +1,22 @@
+1. Create conda enviroment 
+
+conda create --name generate-Dataset python=3.11
+conda activate generate-Dataset
+
+3. Install it Before Pytorch 
+
+
+2. nvcc --version
+
+3. Cuda 12.4
+conda install pytorch==2.5.1 torchvision==0.20.1 torchaudio==2.5.1 pytorch-cuda=12.4 -c pytorch -c nvidia
+
+4. Install libraries :
+
+pip install fsspec==2025.2.0
+pip install sympy==1.13.1
+pip install opencv-python==4.11.0.86
+pip install matplotlib==3.10.1
+pip install diffusers==0.32.2
+pip install transformers==4.49.0
+pip install accelerate==1.4.0
