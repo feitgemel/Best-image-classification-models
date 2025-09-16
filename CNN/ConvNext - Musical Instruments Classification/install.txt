@@ -1,0 +1,31 @@
+
+1. Create Conda enviroment :
+
+conda create -n ConvNeXt python=3.11
+conda activate ConvNeXt 
+
+2. Install Pytorch 
+
+# check Cuda version
+nvcc --version
+
+# Install Pytorch 2.5.0 with Cuda 12.4
+conda install pytorch==2.5.0 torchvision==0.20.0 torchaudio==2.5.0 pytorch-cuda=12.4 -c pytorch -c nvidia
+
+3. Install LIbraries 
+
+pip install transformers[torch]==4.46.1
+pip install datasets==3.2.0
+
+pip install opencv-python==4.10.0.84
+pip install matplotlib==3.10.0
+pip install scikit-learn==1.6.0
+
+# Dataset : https://www.kaggle.com/datasets/gpiosenka/musical-instruments-image-classification/data
+
+
+
+
+
+
+

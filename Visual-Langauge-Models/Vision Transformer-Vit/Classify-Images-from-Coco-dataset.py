@@ -2,7 +2,7 @@ from transformers import ViTFeatureExtractor , ViTForImageClassification
 from PIL import Image as img 
 import cv2
 
-originalImage = cv2.imread("Best-image-classification-models/Vision Transformer-Vit/Dori.jpg")
+originalImage = cv2.imread("Best-image-classification-models/Visual-Langauge-Models/Vision Transformer-Vit/Dori.jpg")
 img = cv2.cvtColor(originalImage, cv2.COLOR_BGR2RGB)
 
 # Create Feature ectractor (form tasks like resize , normalize pixesl , and prepare the image for the model)
