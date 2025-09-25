@@ -12,6 +12,10 @@
 In this tutorial, we will show you how to use LightlyTrain to train 
 a model on your own dataset for image classification.
 
+You can find the link for the [tutorial](https://eranfeit.net/self-supervised-learning-made-easy-with-lightlytrain-image-classification-tutorial/) here. 
+
+You can find the link for the [Video tutorial](https://youtu.be/MHXx2HY29uc) here.
+
 Self-Supervised Learning (SSL) is reshaping computer vision, just like LLMs reshaped text. The newly launched LightlyTrain framework empowers AI teams—no PhD required—to easily train robust, unbiased foundation models on their own datasets. Let’s dive into how SSL with LightlyTrain beats traditional methods
 
 Imagine training better computer vision models—without labeling a single image.
@@ -36,9 +40,7 @@ You will learn:
 ✅ How to fine-tune your model with a new dataset / categories  <br/>
 ✅ Test the model  <br/>
 
-<br/>
-
-You can find the link for the [tutorial](https://youtu.be/MHXx2HY29uc) here. 
+<br/> 
 
 You can find more cool similar projects and visual transfomers tutorials in this [playlist](https://www.youtube.com/playlist?list=PLdkryDe59y4a2PRJda-Z7M7Sod7uQKT2d)
 

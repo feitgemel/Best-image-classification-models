@@ -23,7 +23,8 @@ In this video, we'll guide you through the entire process of preparing your data
 
 <br/>
 
-You can find the link for the [tutorial](https://youtu.be/d_JB9GA2U_c) here. 
+You can find the link for the [tutorial](https://eranfeit.net/how-to-classify-525-bird-species-using-inception-v3-and-tensorflow/) here.  
+You can find the link for the [Video tutorial](https://youtu.be/d_JB9GA2U_c) here. 
 
 You can find more cool similar projects and tutorials in this [playlist](https://www.youtube.com/playlist?list=PLdkryDe59y4aCcCN4ioFpdLVAGZ_dFeFr)
 

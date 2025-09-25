@@ -1,0 +1,48 @@
+3. Create Conda enviroment :
+
+conda create -n TensorFlow217 python=3.11 
+conda activate TensorFlow217
+
+nvcc --version
+
+4. Install :
+
+Instructions for Install Tensor flow with Cuda:
+https://www.tensorflow.org/install/pip#windows-wsl2_1
+
+# For GPU users for Cuda 12.3 
+pip install tensorflow[and-cuda]==2.17.1
+
+# For CPU users
+pip install tensorflow==2.17.1
+
+
+#More :
+pip install matplotlib==3.10.0
+pip install pandas==2.2.3
+pip install scikit-learn==1.6.0
+pip install seaborn==0.13.2
+
+
+# Download dataset : 
+https://www.kaggle.com/datasets/shashwatwork/knee-osteoarthritis-dataset-with-severity/data 
+
+Knee Osteoarthritis Dataset with Severity Grading
+Context :
+
+Knee osteoarthritis is defined by degeneration of the knee’s articular cartilage the flexible, slippery material that normally protects bones from joint friction and impact. The condition also involves changes to the bone underneath the cartilage and can affect nearby soft tissues. Knee osteoarthritis is by far the most common type of arthritis to cause knee pain and often referred to as simply knee arthritis. Many other less common types of arthritis can also cause knee pain, including rheumatoid arthritis, pseudogout, and reactive arthritis.
+
+Content :
+This dataset contains knee X-ray data for both knee joint detection and knee KL grading. The Grade descriptions are as follows:
+
+Grade 0: Healthy knee image.
+
+Grade 1 (Doubtful): Doubtful joint narrowing with possible osteophytic lipping
+
+Grade 2 (Minimal): Definite presence of osteophytes and possible joint space narrowing
+
+Grade 3 (Moderate): Multiple osteophytes, definite joint space narrowing, with mild sclerosis.
+
+Grade 4 (Severe): Large osteophytes, significant joint narrowing, and severe sclerosis.
+
+

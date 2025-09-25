@@ -25,7 +25,8 @@ part 3 : Test the model on a new fresh image
 
 <br/>
 
-You can find the link for the [tutorial](https://youtu.be/9FMVlhOGDoo) here. 
+You can find the link for the [tutorial](https://eranfeit.net/how-to-actually-use-mobilenetv3-for-fish-classifier/) here.  
+You can find the link for the [Video tutorial](https://youtu.be/9FMVlhOGDoo) here.
 
 You can find more cool Python projects and tutorials in this [playlist]https://www.youtube.com/playlist?list=PLdkryDe59y4aCcCN4ioFpdLVAGZ_dFeFr)
 

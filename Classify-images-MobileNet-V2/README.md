@@ -24,7 +24,8 @@ Part 2: Run a prediction , and extract the result in two ways
 
 <br/>
 
-You can find the link for the [tutorial](https://youtu.be/Nhe7WrkXnpM) here. 
+You can find the link for the [tutorial](https://eranfeit.net/super-quick-image-classification-with-mobilenetv2/) here.   
+You can find the link for the [Video tutorial](https://youtu.be/Nhe7WrkXnpM) here. 
 
 You can find more cool Python projects and tutorials in this [playlist]https://www.youtube.com/playlist?list=PLdkryDe59y4aCcCN4ioFpdLVAGZ_dFeFr)
 

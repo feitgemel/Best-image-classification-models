@@ -15,7 +15,8 @@ We will learn how to classify your own image based on the 1000 image-net classes
 
 <br/>
 
-You can find the link for the [tutorial](https://youtu.be/lomMTiG9UZ4) here. 
+You can find the link for the [tutorial](https://eranfeit.net/how-to-classify-images-using-efficientnet-b0/) here.  
+You can find the link for the [Tutorial tutorial](https://youtu.be/lomMTiG9UZ4) here. 
 
 You can find more cool Python projects and tutorials in this [playlist](https://www.youtube.com/playlist?list=PLdkryDe59y4aCcCN4ioFpdLVAGZ_dFeFr)
 
