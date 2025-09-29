@@ -1,0 +1,34 @@
+1. Run Powershell as Admin
+
+# Run Linux enviroment
+2. Run wsl 
+
+3. Create Conda enviroment :
+
+conda create -n Keras_Hub python=3.11 
+conda activate Keras_Hub
+
+4. Install :
+
+Instructions for Install Tensor flow with Cuda:
+https://www.tensorflow.org/install/pip#windows-wsl2_1
+
+pip install --upgrade pip
+
+
+# Install Keras Hub
+pip install keras-hub==0.18.1
+
+# For GPU users
+pip install tensorflow[and-cuda]==2.18.0
+
+# For CPU users
+pip install tensorflow==2.18.0
+
+
+pip install pillow==11.1.0
+pip install opencv-python==4.10.0.84
+pip install matplotlib==3.10.0
+
+# vscode :
+code . 
