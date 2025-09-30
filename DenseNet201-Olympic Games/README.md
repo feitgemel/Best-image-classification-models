@@ -23,7 +23,8 @@ In this video, we'll guide you through the entire process of preparing your data
 
 <br/>
 
-You can find the link for the [tutorial](https://youtu.be/TJ3i5r1pq98) here. 
+You can find the link for the [Tutorial](https://eranfeit.net/how-to-build-a-densenet201-model-for-sports-image-classification/) here.  
+You can find the link for the [Video tutorial](https://youtu.be/TJ3i5r1pq98) here. 
 
 You can find more cool similar projects and tutorials in this [playlist](https://www.youtube.com/playlist?list=PLdkryDe59y4aCcCN4ioFpdLVAGZ_dFeFr)
 
