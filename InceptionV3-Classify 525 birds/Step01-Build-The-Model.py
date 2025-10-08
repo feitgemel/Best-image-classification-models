@@ -1,4 +1,4 @@
-# Dataset : https://www.kaggle.com/datasets/gpiosenka/100-bird-species/data
+# Dataset : https://www.kaggle.com/datasets/vinjamuripavan/bird-species
 
 import os 
 pathToDataset = "E:/Data-sets/BIRDS 525 SPECIES- IMAGE CLASSIFICATION"
