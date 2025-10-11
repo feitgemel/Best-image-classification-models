@@ -1,0 +1,34 @@
+Run in on PowerShell !!!!
+=========================
+
+1. Create Conda enviroment :
+
+conda create -n TensorFlow217 python=3.12
+conda activate TensorFlow217
+
+nvcc --version
+
+2. Install :
+
+Instructions for Install Tensor flow with Cuda:
+https://www.tensorflow.org/install/pip#windows-wsl2_1
+
+# For GPU users for Cuda 12.3 
+pip install tensorflow[and-cuda]==2.17.1
+
+# For CPU users
+pip install tensorflow==2.17.1
+
+
+#More :
+pip install matplotlib==3.10.0
+pip install datasets==3.3.0
+pip install pillow==11.1.0
+pip install scipy==1.15.1
+pip install opencv-python==4.10.0.84 
+pip install scikit-learn==1.6.1
+
+3. Run Vscode :
+code . 
+
+# Download dataset : https://www.kaggle.com/datasets/gpiosenka/sports-classification
