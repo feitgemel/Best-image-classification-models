@@ -25,7 +25,10 @@ Steps :
 
 <br/>
 
-You can find the link for the [tutorial](https://youtu.be/zGydLt2-ubQ) here. 
+You can find the link for the [tutorial](https://youtu.be/zGydLt2-ubQ) here.  
+You can read a full blog [here](https://eranfeit.net/build-an-image-classifier-with-vision-transformer/) . 
+Here is a full blog for [Medium](https://medium.com/@feitgemel/build-an-image-classifier-with-vision-transformer-3a1e43069aa6) users
+ 
 
 You can find more cool similar projects and tutorials in this [playlist](https://www.youtube.com/playlist?list=PLdkryDe59y4aCcCN4ioFpdLVAGZ_dFeFr)
 
