@@ -23,6 +23,8 @@ In this video, we'll guide you through the entire process of preparing your data
 
 <br/>
 
+You can find the full post [here](https://eranfeit.net/vgg19-transfer-learning-explained-for-beginners/). 
+
 You can find the link for the [tutorial](https://youtu.be/exaEeDfbFuI) here. 
 
 You can find more cool similar projects and tutorials in this [playlist](https://www.youtube.com/playlist?list=PLdkryDe59y4aCcCN4ioFpdLVAGZ_dFeFr)
