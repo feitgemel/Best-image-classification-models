@@ -31,6 +31,12 @@ This tutorial has 4 parts :
 
 You can find the link for the [tutorial](https://youtu.be/xnzit-pAU4c) here. 
 
+You can download the code [here](https://eranfeit.lemonsqueezy.com/buy/35b1cd08-be24-472d-a897-7ca43e1d460c) 
+
+You can find a full post [here](https://eranfeit.net/yolov5-image-classification-complete-tutorial/) 
+
+Here is a full post for [Medium](https://medium.com/image-classification-tutorials/yolov5-image-classification-complete-tutorial-bd620e430ece) users
+
 You can find more cool similar projects and tutorials in this [playlist](https://www.youtube.com/playlist?list=PLdkryDe59y4aCcCN4ioFpdLVAGZ_dFeFr)
 
 Enjoy
