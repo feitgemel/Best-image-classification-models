@@ -31,6 +31,10 @@ This tutorial has 4 parts :
 
 You can find the link for the [tutorial](https://youtu.be/-QRVPDjfCYc) here. 
 
+Here is a link for full blog [post](https://eranfeit.net/yolov8-tutorial-build-a-car-image-classifier/) .
+
+Link to the post for [Medium](https://medium.com/image-classification-tutorials/yolov8-tutorial-build-a-car-image-classifier-42ce468854a2) users .  
+
 You can find more cool similar projects and tutorials in this [playlist](https://www.youtube.com/playlist?list=PLdkryDe59y4aCcCN4ioFpdLVAGZ_dFeFr)
 
 Enjoy
