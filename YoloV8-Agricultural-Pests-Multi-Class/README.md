@@ -31,6 +31,8 @@ This tutorial has 4 parts :
 
 You can find the link for the [tutorial](https://youtu.be/--FPMF49Dpg) here. 
 
+Full blog and code for this [tutorial](https://eranfeit.net/complete-yolov8-classification-tutorial-for-beginners/) .
+
 You can find more cool similar projects and tutorials in this [playlist](https://www.youtube.com/playlist?list=PLdkryDe59y4aCcCN4ioFpdLVAGZ_dFeFr)
 
 Enjoy
