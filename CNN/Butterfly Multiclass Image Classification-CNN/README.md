@@ -1,7 +1,7 @@
-# How to Use Keras Hub for Image Classification
+# Build Your Own Butterfly Image Classifier with Python AI | Butterfly Multiclass Image Classification
 
 <p align="center">
-  <img width="800" src="How to classify images using Keras Hub.png" "image">
+  <img width="800" src="Butterfly Multiclass Image Classification-CNN.png" "image">
 </p>
 
 ##
@@ -9,21 +9,23 @@
 
 <font size= "4" >
 
-Learn how to perform image classification using Keras Hub and Python in this step-by-step tutorial.
-
-<br/> 
-
-We’ll cover:
-✅ Import Keras Hub and explore available pretrained models
-✅ Load an ImageNet-trained ResNet model with just one line of code
-✅ Run predictions on a test image and decode the results
-✅ Visualize the classification output with OpenCV and Matplotlib
+Whether you're a student working on a research project or a developer looking to sharpen your AI skills, this video covers the end-to-end pipeline of a professional Image Classification project. We start with data exploration, move into advanced data augmentation, and finally train a Convolutional Neural Network (CNN) that achieves impressive accuracy.
 
 <br/>
 
-You can find the link for the [Video tutorial](https://youtu.be/MZcRGiJVTV8) here. 
+You’ll learn how to: 
 
-You can find more cool similar projects and tutorials in this [playlist](https://www.youtube.com/playlist?list=PLdkryDe59y4aCcCN4ioFpdLVAGZ_dFeFr)
+✅ Data Visualization: Using Seaborn and Matplotlib to understand class distribution <br>
+✅ Data Augmentation: How to use ImageDataGenerator to prevent overfitting <br>
+✅ CNN Architecture: Building a Sequential model with Conv2D, MaxPooling, and Dense layers <br>
+✅ Model Optimization: Implementing EarlyStopping and ModelCheckpoint to save your best weights <br>
+✅ Evaluation: Interpreting accuracy/loss curves and visualizing real-world predictions 
+ 
+<br/>
+
+You can find the link for the [tutorial](https://youtu.be/7lkVovTBKqI) here. 
+
+You can find more cool similar projects and tutorials in this [playlist](ssshttps://www.youtube.com/watch?v=n-SpVoHrzDQ&list=PLdkryDe59y4aytIPjci6_fn3B1-QuM-Oh)
 
 Enjoy
 
