@@ -1,0 +1,51 @@
+import os 
+from diffusers import DiffusionPipeline
+import torch
+import cv2
+import numpy as np
+
+# Link to animals : https://huggingface.co/models?library=diffusers&sort=trending&search=animals
+
+# Configuration 
+animals_models = "VuDucQuang/nature-and-animals"
+device = "cuda" if torch.cuda.is_available() else "cpu"
+
+# Setup pipline
+pipline = DiffusionPipeline.from_pretrained(
+    animals_models, torch_dtype=torch.float16 ) 
+
+pipline.to(device)
+
+
+# List of objects to generate
+categories = ['Lion', 'African Elephant', 'Leopard', 'Rhinocerous', 'Cape Buffalo', 'cheetah' , 'Giraffe', 'Zebra' , 'Hippo' , 'Crocodile' , 'Wildebeest' , 'Warthhog' ]
+
+os.makedirs("/mnt/d/Data-sets/synthetic", exist_ok=True)
+
+# Base directory to save the generated images
+base_dir = "/mnt/d/Data-sets/synthetic/Animals-Object-Detection/images"
+os.makedirs(base_dir, exist_ok=True)
+
+num_images_per_category = 10
+
+for category in categories:
+
+    for j in range(num_images_per_category):
+
+        print(category + ":Image no." + str(j))
+
+        prompt = 'Medium-shot of a {} , front view, '.format(category) + \
+                'photorealistic, hyperrealistic, realistic, incredibly detailed, digital art, crisp focus, depth of field, 50mm, 8k'
+
+        negative_prompt = '3d, cartoon, anime, sketches, (worst quality:2), (low quality:2), (normal quality:2), lowres, normal quality, ((monochrome)), ' + \
+                        '((grayscale)) Low Quality, Worst Quality, plastic, fake, disfigured, deformed, blurry, bad anatomy, blurred, watermark, grainy, signature'
+
+        # Generate image
+        img = pipline(prompt=prompt, negative_prompt=negative_prompt).images[0]
+
+        file_name = category + str(j) + ".png"
+        full_path = os.path.join(base_dir, file_name)
+
+        print(f"Saving image to: {full_path}")
+
+        img.save(full_path)

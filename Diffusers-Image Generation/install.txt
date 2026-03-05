@@ -1,23 +1,33 @@
---------------------------------------------------------------------------
 0. Run Powershell win admin , and then run wsl
 
 1. Conda install 
-
-conda create -n diffusers python=3.11
-conda activate diffusers
+conda create -n diffusers311 python=3.11
+conda activate diffusers311
 
 2. install requirements :
 
-pip install --upgrade diffusers[torch]==0.31.0
-pip install transformers==4.46.2
-pip install opencv-python==4.10.0.84
+#For image generation for classification
+pip install diffusers[torch]==0.16.1 
+pip install transformers==4.28.1 
+pip install huggingface-hub==0.14.1 
+pip install accelerate==0.19.0
+pip install opencv-python==4.13.0.92
 
-3. For object detection :
-pip install autodistill==0.1.28
+--------------------------------------------------------------------------
+
+#For object detection :
+pip install autodistill==0.1.29
 pip install autodistill-grounding-dino==0.1.4
-pip install roboflow==1.1.49
+pip install roboflow==1.2.15
+
+pip uninstall -y opencv-python
+pip install opencv-python==4.13.0.92
+pip install scikit-learn==1.8.0
+--------------------------------------------------------------------------
 
 
+# Run the Vscode 
+code . <enter>
 
 
 
